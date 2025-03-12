@@ -39,3 +39,6 @@ Here I wanted to plot graphs of
 1. Euler angles
 2. Velocities in all axis
 3. Position in all axis
+
+
+![Consolidated_plot](assests/consolidated_plot.png)
